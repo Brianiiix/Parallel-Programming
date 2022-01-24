@@ -1,2 +1,2 @@
 # Parallel-Programming
-Parallel Programming from NYCU
+https://nycu-sslab.github.io/PP-f21/
